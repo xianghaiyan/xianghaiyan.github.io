@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Welcome to Petrel Xiang Blog"
+title:      "Welcome to Petrel Blog"
 subtitle:   " \"Hello 产品汪, Hello 博客\""
 date:       2016-11-06 23:50:00
 author:     "Petrel Xiang"
