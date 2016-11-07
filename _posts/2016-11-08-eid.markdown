@@ -4,7 +4,7 @@ title:      "网络身份认证"
 subtitle:   "eID,eID卡, 公安部公民网络身份服务"
 date:       2016-11-08
 author:     "Petrel Xiang"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-eid.jpg"
 tags:
     - eID介绍
     - 网络身份认证服务
@@ -49,8 +49,8 @@ eID应用服务机构自建自建IT系统，对AP进行接入管理，接收来�
 
 > **eID提供商：**  
 >
->[金联汇通](http://www.eidlink.com)
->[云开信安](http://www.eidsp.cn)
+> [金联汇通](http://www.eidlink.com)
+> [云开信安](http://www.eidsp.cn)
 
 ## eID提供的服务
 
