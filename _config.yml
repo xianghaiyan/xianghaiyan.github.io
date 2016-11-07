@@ -1,5 +1,5 @@
 # Site settings
-title: 一只会写代码的产品汪
+title: 会写代码的产品汪
 SEOTitle: 向海燕的博客 | Xhy Blog
 header-img: img/home-bg.jpg
 email: xianghaiyan_it@163.com
@@ -67,7 +67,7 @@ ga_domain: 58lhh.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
+sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，我还很年轻。"
 sidebar-avatar: /img/avatar-xhy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

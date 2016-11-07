@@ -44,7 +44,7 @@ Petrel Xiang 的 Blog 就这么开通了。
 ## 后记
 
 回顾这个博客的诞生，纯粹是出于个人兴趣。如果你恰好逛到了这里，希望你也能喜欢这个博客。
-<img src="../img/my_weixin.ppg" width="350" height="350"/>
+<img src="../img/my_weixin.png" width="350" height="350"/>
 
 <small class="img-hint">欢迎大家加微信好友交流</small>
 
