@@ -4,7 +4,7 @@ title:      "网络身份认证"
 subtitle:   "eID,eID卡, 公安部公民网络身份服务"
 date:       2016-11-08
 author:     "Petrel Xiang"
-header-img: "img/post-eid.jpg"
+header-img: "img/post-eid/post-eid.jpg"
 tags:
     - eID介绍
     - 网络身份认证服务
