@@ -67,7 +67,7 @@ eID应用服务机构自建自建IT系统，对AP进行接入管理，接收来�
 由第三方应用负责收集用户的姓名、证件类型、证件号码信息，并要求用户用eID卡签名，第三方应用将身份信息及签名值发送到IDSP平台进行实名认证的过程。
 
 ![java-javascript](/img/in-post/post-eid/eid-pki.jpg)
-<small class="img-hint">PKI 身份识别业务泳道图</small>
+<small class="img-hint">图1：PKI 身份识别业务泳道图</small>
 
 #### HMAC实名认证
 
