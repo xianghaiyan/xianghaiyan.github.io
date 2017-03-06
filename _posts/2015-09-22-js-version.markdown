@@ -6,9 +6,9 @@ date:       2017-03-06
 author:     "Petrel Xiang"
 header-img: "img/post-bg-js-version.jpg"
 tags:
-    - 前端开发
-    - JavaScript
-    - 翻译
+    - 支付
+    - 清算
+    - 结算
 ---
 
 
